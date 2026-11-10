@@ -1,0 +1,123 @@
+1
+00:00:00,080 --> 00:00:01,070
+You tap Send.
+
+2
+00:00:01,200 --> 00:00:03,040
+How does that message get from your phone
+
+3
+00:00:03,040 --> 00:00:03,890
+to your friend's?
+
+4
+00:00:04,867 --> 00:00:06,794
+First, it helps to know what the internet
+
+5
+00:00:06,794 --> 00:00:07,443
+is.
+
+6
+00:00:07,804 --> 00:00:09,498
+It isn't one big machine.
+
+7
+00:00:09,731 --> 00:00:12,540
+It's lots of smaller networks connected together.
+
+8
+00:00:13,267 --> 00:00:16,099
+Your home Wi-Fi is one small network.
+
+9
+00:00:16,227 --> 00:00:19,059
+Your internet provider connects it to other networks.
+
+10
+00:00:19,513 --> 00:00:21,672
+Think of a street joining a main road,
+
+11
+00:00:21,672 --> 00:00:24,283
+which joins roads leading across the city.
+
+12
+00:00:25,000 --> 00:00:27,101
+Your phone turns “Meet me at six” into
+
+13
+00:00:27,101 --> 00:00:28,400
+digital data.
+
+14
+00:00:29,133 --> 00:00:32,535
+The internet carries data in packets—small bundles with
+
+15
+00:00:32,535 --> 00:00:33,741
+an address attached.
+
+16
+00:00:33,916 --> 00:00:36,307
+A short text might fit in one packet;
+
+17
+00:00:36,436 --> 00:00:37,921
+a photo needs many.
+
+18
+00:00:38,667 --> 00:00:41,266
+The address points toward the messaging service.
+
+19
+00:00:41,558 --> 00:00:44,239
+At each network junction, a router checks that
+
+20
+00:00:44,239 --> 00:00:46,433
+address and passes the packet along.
+
+21
+00:00:46,979 --> 00:00:49,300
+No single router makes the whole trip.
+
+22
+00:00:49,476 --> 00:00:51,495
+Each one handles the next step.
+
+23
+00:00:52,200 --> 00:00:54,720
+The messaging service knows which account belongs to
+
+24
+00:00:54,720 --> 00:00:55,520
+your friend.
+
+25
+00:00:55,881 --> 00:00:58,597
+It sends the message through connected networks toward
+
+26
+00:00:58,597 --> 00:00:59,455
+their phone.
+
+27
+00:00:59,746 --> 00:01:01,859
+If they're offline, the app may wait for
+
+28
+00:01:01,859 --> 00:01:03,170
+them to reconnect.
+
+29
+00:01:03,933 --> 00:01:05,791
+So the internet is really a team of
+
+30
+00:01:05,791 --> 00:01:07,822
+networks passing data along.
+
+31
+00:01:08,113 --> 00:01:10,817
+That's the journey behind one tap of Send.

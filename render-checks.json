@@ -1,0 +1,26 @@
+{
+  "resolution": "1280x720",
+  "fps": 15,
+  "scene_count": 8,
+  "subtitle_cues": 31,
+  "duration_seconds": 71.53333333333333,
+  "narration": "George / eleven_flash_v2_5; all 8 clips reused for render",
+  "music": "Science Lab / 2BStudio, user confirmed license",
+  "audio_checks": {
+    "integrated_loudness_lufs": -16.52,
+    "true_peak_dbtp": -1.18,
+    "sample_peak_dbfs": -1.2,
+    "clipping_detected": false
+  },
+  "checks": [
+    "All original narration, scene JSON and artwork hashes unchanged",
+    "All spoken text included in timed subtitles",
+    "Every subtitle phrase fits within two lines",
+    "Every voice clip fits its scene with at least 0.8 seconds of tail space",
+    "MP4 decodes without errors",
+    "Video and audio stream durations differ by under 1 ms",
+    "All eight scene frames visually reviewed",
+    "Speech-bubble text follows camera movement",
+    "Private .env excluded from Git and ZIP packager"
+  ]
+}

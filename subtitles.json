@@ -1,0 +1,213 @@
+{
+  "opening": {
+    "duration": 4.866666666666666,
+    "audio_duration": 4.022857,
+    "start": 0,
+    "cues": [
+      {
+        "start": 0.08,
+        "end": 1.07,
+        "text": "You tap Send."
+      },
+      {
+        "start": 1.2,
+        "end": 3.04,
+        "text": "How does that message get from your phone"
+      },
+      {
+        "start": 3.04,
+        "end": 3.89,
+        "text": "to your friend's?"
+      }
+    ]
+  },
+  "home_network": {
+    "duration": 8.4,
+    "audio_duration": 7.549388,
+    "start": 4.866666666666666,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 1.927,
+        "text": "First, it helps to know what the internet"
+      },
+      {
+        "start": 1.927,
+        "end": 2.576,
+        "text": "is."
+      },
+      {
+        "start": 2.937,
+        "end": 4.631,
+        "text": "It isn't one big machine."
+      },
+      {
+        "start": 4.864,
+        "end": 7.673,
+        "text": "It's lots of smaller networks connected together."
+      }
+    ]
+  },
+  "connected_networks": {
+    "duration": 11.733333333333333,
+    "audio_duration": 10.893061,
+    "start": 13.266666666666666,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 2.832,
+        "text": "Your home Wi-Fi is one small network."
+      },
+      {
+        "start": 2.96,
+        "end": 5.792,
+        "text": "Your internet provider connects it to other networks."
+      },
+      {
+        "start": 6.246,
+        "end": 8.405,
+        "text": "Think of a street joining a main road,"
+      },
+      {
+        "start": 8.405,
+        "end": 11.016,
+        "text": "which joins roads leading across the city."
+      }
+    ]
+  },
+  "send": {
+    "duration": 4.133333333333334,
+    "audio_duration": 3.291429,
+    "start": 25.0,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 2.101,
+        "text": "Your phone turns “Meet me at six” into"
+      },
+      {
+        "start": 2.101,
+        "end": 3.4,
+        "text": "digital data."
+      }
+    ]
+  },
+  "packets": {
+    "duration": 9.533333333333333,
+    "audio_duration": 8.672653,
+    "start": 29.133333333333333,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 3.402,
+        "text": "The internet carries data in packets—small bundles with"
+      },
+      {
+        "start": 3.402,
+        "end": 4.608,
+        "text": "an address attached."
+      },
+      {
+        "start": 4.783,
+        "end": 7.174,
+        "text": "A short text might fit in one packet;"
+      },
+      {
+        "start": 7.303,
+        "end": 8.788,
+        "text": "a photo needs many."
+      }
+    ]
+  },
+  "routers": {
+    "duration": 13.533333333333333,
+    "audio_duration": 12.721633,
+    "start": 38.666666666666664,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 2.599,
+        "text": "The address points toward the messaging service."
+      },
+      {
+        "start": 2.891,
+        "end": 5.572,
+        "text": "At each network junction, a router checks that"
+      },
+      {
+        "start": 5.572,
+        "end": 7.766,
+        "text": "address and passes the packet along."
+      },
+      {
+        "start": 8.312,
+        "end": 10.633,
+        "text": "No single router makes the whole trip."
+      },
+      {
+        "start": 10.809,
+        "end": 12.828,
+        "text": "Each one handles the next step."
+      }
+    ]
+  },
+  "service": {
+    "duration": 11.733333333333333,
+    "audio_duration": 10.866939,
+    "start": 52.199999999999996,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 2.52,
+        "text": "The messaging service knows which account belongs to"
+      },
+      {
+        "start": 2.52,
+        "end": 3.32,
+        "text": "your friend."
+      },
+      {
+        "start": 3.681,
+        "end": 6.397,
+        "text": "It sends the message through connected networks toward"
+      },
+      {
+        "start": 6.397,
+        "end": 7.255,
+        "text": "their phone."
+      },
+      {
+        "start": 7.546,
+        "end": 9.659,
+        "text": "If they're offline, the app may wait for"
+      },
+      {
+        "start": 9.659,
+        "end": 10.97,
+        "text": "them to reconnect."
+      }
+    ]
+  },
+  "delivered": {
+    "duration": 7.6,
+    "audio_duration": 6.765714,
+    "start": 63.93333333333333,
+    "cues": [
+      {
+        "start": 0.0,
+        "end": 1.858,
+        "text": "So the internet is really a team of"
+      },
+      {
+        "start": 1.858,
+        "end": 3.889,
+        "text": "networks passing data along."
+      },
+      {
+        "start": 4.18,
+        "end": 6.884,
+        "text": "That's the journey behind one tap of Send."
+      }
+    ]
+  }
+}

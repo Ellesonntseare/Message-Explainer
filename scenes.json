@@ -1,0 +1,58 @@
+[
+  {
+    "id": "opening",
+    "duration": 9,
+    "asset": "sender.png",
+    "caption": "What happens when you press Send?",
+    "narration": "You tap Send. How does that message get from your phone to your friend's?"
+  },
+  {
+    "id": "home_network",
+    "duration": 12,
+    "asset": "home-network.png",
+    "caption": "The internet joins smaller networks",
+    "narration": "First, it helps to know what the internet is. It isn't one big machine. It's lots of smaller networks connected together."
+  },
+  {
+    "id": "connected_networks",
+    "duration": 15,
+    "asset": "connected-neighborhood.png",
+    "caption": "Home Wi-Fi connects to other networks",
+    "narration": "Your home Wi-Fi is one small network. Your internet provider connects it to other networks. Think of a street joining a main road, which joins roads leading across the city."
+  },
+  {
+    "id": "send",
+    "duration": 8,
+    "asset": "home-network.png",
+    "caption": "Phone  →  Wi-Fi router  →  provider",
+    "narration": "Your phone turns “Meet me at six” into digital data."
+  },
+  {
+    "id": "packets",
+    "duration": 13,
+    "asset": "home-network.png",
+    "caption": "A text may fit in one packet; a photo needs many",
+    "narration": "The internet carries data in packets—small bundles with an address attached. A short text might fit in one packet; a photo needs many."
+  },
+  {
+    "id": "routers",
+    "duration": 18,
+    "asset": "router-journey.png",
+    "caption": "Each router handles the next step",
+    "narration": "The address points toward the messaging service. At each network junction, a router checks that address and passes the packet along. No single router makes the whole trip. Each one handles the next step."
+  },
+  {
+    "id": "service",
+    "duration": 18,
+    "asset": "connected-neighborhood.png",
+    "caption": "The service finds your friend’s account",
+    "narration": "The messaging service knows which account belongs to your friend. It sends the message through connected networks toward their phone. If they're offline, the app may wait for them to reconnect."
+  },
+  {
+    "id": "delivered",
+    "duration": 11,
+    "asset": "recipient.png",
+    "caption": "A team of networks behind one tap",
+    "narration": "So the internet is really a team of networks passing data along. That's the journey behind one tap of Send."
+  }
+]

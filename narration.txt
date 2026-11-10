@@ -1,0 +1,15 @@
+You tap Send. How does that message get from your phone to your friend's?
+
+First, it helps to know what the internet is. It isn't one big machine. It's lots of smaller networks connected together.
+
+Your home Wi-Fi is one small network. Your internet provider connects it to other networks. Think of a street joining a main road, which joins roads leading across the city.
+
+Your phone turns “Meet me at six” into digital data.
+
+The internet carries data in packets—small bundles with an address attached. A short text might fit in one packet; a photo needs many.
+
+The address points toward the messaging service. At each network junction, a router checks that address and passes the packet along. No single router makes the whole trip. Each one handles the next step.
+
+The messaging service knows which account belongs to your friend. It sends the message through connected networks toward their phone. If they're offline, the app may wait for them to reconnect.
+
+So the internet is really a team of networks passing data along. That's the journey behind one tap of Send.

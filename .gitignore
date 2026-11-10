@@ -1,0 +1,16 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.zip
+# Local secrets written by `elevenlabs onboard`
+/.env
+
+node_modules/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+certs/

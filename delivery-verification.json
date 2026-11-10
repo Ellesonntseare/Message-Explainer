@@ -1,0 +1,43 @@
+{
+  "verified_at_utc": "2026-10-30T15:16:35.621794+00:00",
+  "hd_render": {
+    "filename": "What-Happens-When-You-Press-Send-1080p.mp4",
+    "bytes": 19900051,
+    "sha256": "8abdbea1cb428d0867350bd063654124542268f18e32c2afc742a0d77e389b45",
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": "48000",
+    "video_seconds": 71.533984,
+    "audio_seconds": 71.533,
+    "full_decode": "passed",
+    "integrated_loudness_lufs": -16.5,
+    "true_peak_dbfs": -1.2
+  },
+  "original_720p": {
+    "filename": "What-Happens-When-You-Press-Send-720p.mp4",
+    "bytes": 6583654,
+    "sha256": "de536a782365fb7725b3c5c8e40ec5df576d7391057b950ed7c70c51b0cbb381",
+    "width": 1280,
+    "height": 720,
+    "fps": "15/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_channels": 2,
+    "audio_sample_rate": "48000",
+    "video_seconds": 71.533984,
+    "audio_seconds": 71.533
+  },
+  "scene_count": 8,
+  "subtitle_cues": 31,
+  "subtitles_sha256": "8dbb0ec4e27302bd8e9c4715985d3d6bf3971a590e0cd5a8e09c3002ae638597",
+  "all_narration_text_in_subtitles": true,
+  "all_voice_clips_have_0_8_seconds_tail_space": true,
+  "elevenlabs_generation": "Eight existing clips reused; no new API requests or credits",
+  "hd_render_source": "Original artwork, with text and overlays drawn at 1920x1080; 30fps; CRF18",
+  "visual_review": "Passed: all eight scene samples and full-resolution delivered frame reviewed; no cropped subtitles",
+  "visual_note": "Original delivered-bubble artwork includes faint decorative placeholder strokes behind the added message text."
+}
